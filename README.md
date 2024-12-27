@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Neeraj Sahni
 
+Welcome to my GitHub profile! Here's a little about me and what I bring to the table:
+
+---
+
+
+## 🔭 What I’m Working On
+- **Web3 Project**: Currently I'm working on web3 projects, diving in web3 technologies and exploring public chain and private chains.
+
+---
 <!--
 **neerajsahni-immanent/neerajsahni-immanent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
