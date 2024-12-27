@@ -20,6 +20,10 @@ Welcome to my GitHub profile! Here's a little about me and what I bring to the t
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajsahni-immanent&show_icons=true&count_private=true&theme=radical)
+---
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=neerajsahni-immanent&theme=radical)
+
 <!--
 **neerajsahni-immanent/neerajsahni-immanent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
