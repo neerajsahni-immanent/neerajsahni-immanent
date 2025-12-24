@@ -11,10 +11,10 @@ Welcome to my GitHub profile! Here's a little about me and what I bring to the t
 ---
 
 ## 🌟 My Expertise
-- **Programming Languages**: `JavaScript`,  `Java`,  etc.
-- **Frameworks/Tools**: `React`, `Nextjs`, `Node.js`, `ExpressJs`, `Spring Boot`, etc.
-- **Databases**: `MongoDB`,  `MySQL`, `PostgreSQL`, etc.
-- **Cloud Platforms**: `AWS`, `Google Cloud`, etc.
+- **Programming Languages**: `JavaScript`,  `Java`.
+- **Frameworks/Tools**: `React`, `Nextjs`, `Node.js`, `ExpressJs`, `Spring Boot`.
+- **Databases**: `MongoDB`,  `MySQL`, `PostgreSQL`.
+- **Cloud Platforms**: `AWS`, `Google Cloud`.
 - **DevOps**: `Docker`,  `CI/CD Pipelines`, `GitOps`.
 
 ---
